@@ -18,4 +18,4 @@ class MQTT:
     user = 'USERNAME'
 
     # Set your MQTT password here
-    password = 'PASWORD'
+    password = 'PASSWORD'
